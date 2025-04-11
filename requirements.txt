@@ -1,0 +1,7 @@
+os
+json
+subprocess
+sys
+platform
+google-generativeai
+typing
