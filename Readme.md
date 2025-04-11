@@ -19,8 +19,9 @@
 ## Installation
 1. Clone the repository:
 ```
-git clone ->myrepo.git<-
-cd myrepo
+git clone https://github.com/kshitij-iiitk/ai_terminal.git
+cd ai_terminal
+
  ```
 2. Install dependencies:
 ```
